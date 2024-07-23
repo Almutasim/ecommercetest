@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285445353958",
+    "project_id": "ecommercestudy-a2b2e",
+    "storage_bucket": "ecommercestudy-a2b2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285445353958:android:b54f6041f5d730da8e6627",
+        "android_client_info": {
+          "package_name": "com.example.ecoomerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNNsgXzoq0GT3DlasbX-6-2YnTF8WrOkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
